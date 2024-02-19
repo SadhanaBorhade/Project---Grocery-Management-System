@@ -1,4 +1,4 @@
-# Online-Grocery-Management-System
+# Online-Grocery-Ordering-System
 
 
 Creating an online grocery ordering system is a significant step towards modernizing the retail industry. This web application provides a platform for users to purchase fresh produce, groceries, and other household items from the comfort of their homes. With distinct roles such as Admin, User, Supplier, and Delivery Person, the system efficiently manages the entire shopping process. Here is an in-depth description of the features and functionality of this Online Fresh Mart website, which plays a pivotal role in simplifying grocery shopping.
